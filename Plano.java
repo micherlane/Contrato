@@ -11,7 +11,7 @@ public class Plano {
     }
 
     public String getDescricao() {
-        return descricao;
+        return descricao;//
     }
 
     public void setDescricao(String descricao) {
